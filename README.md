@@ -1,2 +1,2 @@
 # Sentiment-Analysis
-Sample sentiment analysis for news data of few public profiles
+Sample sentiment analysis of popular public profiles from news data.
